@@ -1,0 +1,26 @@
+{
+    "name": "MyFirstBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "id": "1",
+            "name": "development",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "luis",
+            "name": "LuisBot",
+            "appId": "67c79754-59c2-4554-8b8d-d3c8f0843b65",
+            "version": "0.1",
+            "authoringKey": "576b1db2b30340a791084eaf58f638b1",
+            "subscriptionKey": "576b1db2b30340a791084eaf58f638b1",
+            "region": "westus",
+            "id": "158"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
