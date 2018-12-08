@@ -10,7 +10,7 @@ The goal of this tutorial is to offer a list of challenges to developers who lik
 |   | Exercise                                                        |   Instructions         |  Completion   |
 |---|-----------------------------------------------------------------|------------------------|---------------|
 | 1 | Your First "Echo" Bot                                           | [Go](./challenge1.md)  | [Source Code](./sources/challenge1) |
-| 2 | Prompt users to get theỉr persional infomation                  | [Go](./challenge2.md)  | [Source Code](./sources/challenge2) |
+| 2 | Prompt users to get their persional infomation                  | [Go](./challenge2.md)  | [Source Code](./sources/challenge2) |
 | 3 | The Bot who could not forget                                    | [Go](./challenge3.md)  | [Source Code](./sources/challenge3) |
 | 4 | Help users to booking hotel room                                 | [Go](./challenge4.md)  | [Source Code](./sources/challenge4) |
 | 5 | The Bot understand human language                               | [Go](./challenge5.md)  | [Source Code](./sources/challenge5) |
