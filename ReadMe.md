@@ -2,9 +2,9 @@
 
 ## Overview
 
-This totorial provide the step-by-step instructions to building a **Hotel Booking Bot** from the scratch using **Microsoft Bot Framework** with **.NET Core**.
+This tutorial provide the step-by-step instructions to building a **Hotel Booking Bot** from the scratch using **Microsoft Bot Framework** with **.NET Core**.
 
-The goal of this tutorial is to offer a list of challenges to developers who like to work through things on their own. Throughout these exercises you will get the basic concepts of Microsoft Bot Framework and give you more infomation to research deeply about this  technology.
+The goal of this tutorial is to offer a list of challenges to developers who like to work through things on their own. Throughout these exercises you will get the basic concepts of Microsoft Bot Framework and give you more infomation to research deeply about this technology.
 
 
 |   | Exercise                                                        |   Instructions         |  Completion   |
